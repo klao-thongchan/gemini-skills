@@ -254,7 +254,7 @@ This index contains links to all documentation pages in `.md.txt` format. Use we
 - [Live API Tool Use](https://ai.google.dev/gemini-api/docs/live-tools.md.txt) — function calling (sync and async), Google Search grounding
 - [Session Management](https://ai.google.dev/gemini-api/docs/live-session.md.txt) — context window compression, session resumption, GoAway signals
 - [Ephemeral Tokens](https://ai.google.dev/gemini-api/docs/ephemeral-tokens.md.txt) — secure client-side authentication for browser/mobile
-- [WebSockets API Reference](https://ai.google.dev/api/live) — raw WebSocket protocol details
+- [WebSockets API Reference](https://ai.google.dev/api/live.md.txt) — raw WebSocket protocol details
 - [REST API Discovery Spec (v1beta)](https://generativelanguage.googleapis.com/$discovery/rest?version=v1beta)
 
 ## Supported Languages
